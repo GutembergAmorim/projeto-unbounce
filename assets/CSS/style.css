@@ -14,12 +14,12 @@ body {
   padding: 20px;
 }
 
-.cabecalho {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  background-color: darkslategray;
-  max-height: 120px;
+.cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: darkslategray;
+    max-height: 120px;
 }
 
 .logo-texto {
@@ -51,29 +51,29 @@ body {
 }
 
 .section-1 {
-  border: 1px solid black;
-  display: flex;
-  justify-content: center;
-  height: 500px;
-  max-width: 100%;
-  background-color: rgb(235, 240, 240);
+    border: 1px solid black;
+    display: flex; 
+    justify-content: center;  
+    height: 500px;
+    max-width: 100%;
+    background-color: rgb(235, 240, 240);
 }
 
-.card-1 {
-  border: 1px solid black;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  width: 65%;
+.card-1{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 65%;   
 }
 
-.textos {
-  border: 1px solid black;
-  display: flex;
-  gap: none;
-  flex-direction: column;
-  justify-content: center;
-  width: 75%;
+.textos{
+    border: 1px solid black;
+    display: flex;
+    gap: none;
+    flex-direction: column;
+    justify-content: center;
+    width: 75%;
 }
 
 .textos h1 {
@@ -92,14 +92,16 @@ body {
   width: 80%;
 }
 
-.textos-img {
-  border: 1px solid black;
-  display: flex;
-  justify-content: flex-start;
-  align-items: flex-end;
-  padding: none;
+.textos-img{
+    border: 1px solid black;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    padding: none;
+    
 }
 
-.homen-sorrindo {
-  width: 80%;
+.homen-sorrindo{
+    width: 80%;
+    
 }
